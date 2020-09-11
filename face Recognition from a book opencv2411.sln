@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "face Recognition from a book opencv2411", "face Recognition from a book opencv2411\face Recognition from a book opencv2411.vcxproj", "{086700B8-E538-4077-A518-E09DE8F3CD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Debug|Win32.Build.0 = Debug|Win32
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Debug|x64.ActiveCfg = Debug|x64
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Debug|x64.Build.0 = Debug|x64
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Release|Win32.ActiveCfg = Release|Win32
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Release|Win32.Build.0 = Release|Win32
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Release|x64.ActiveCfg = Release|x64
+		{086700B8-E538-4077-A518-E09DE8F3CD86}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

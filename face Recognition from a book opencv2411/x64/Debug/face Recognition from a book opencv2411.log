@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/1/8 16:27:46。
+     1>项目“D:\201716010612李铮\C++\face Recognition from a book opencv2411\face Recognition from a book opencv2411\face Recognition from a book opencv2411.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\201716010612李铮\C++\face Recognition from a book opencv2411\x64\Debug\face Recognition from a book opencv2411.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\mysql-8.0.16-winx64\lib" opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_videostab2411d.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\201716010612李铮\C++\face Recognition from a book opencv2411\x64\Debug\face Recognition from a book opencv2411.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\201716010612李铮\C++\face Recognition from a book opencv2411\x64\Debug\face Recognition from a book opencv2411.lib" /MACHINE:X64 x64\Debug\detectObject.obj
+         x64\Debug\ImageUtils_0.7.obj
+         x64\Debug\mySQL.obj
+         x64\Debug\preprocessFace.obj
+         x64\Debug\recognition.obj
+         "x64\Debug\main-recognition.obj"
+         face Recognition from a book opencv2411.vcxproj -> D:\201716010612李铮\C++\face Recognition from a book opencv2411\x64\Debug\face Recognition from a book opencv2411.exe
+     1>已完成生成项目“D:\201716010612李铮\C++\face Recognition from a book opencv2411\face Recognition from a book opencv2411\face Recognition from a book opencv2411.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.49
