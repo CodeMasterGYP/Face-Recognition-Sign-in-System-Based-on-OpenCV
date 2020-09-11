@@ -1,1 +1,3 @@
 # Face-Recognition-Sign-in-System-Based-on-OpenCV
+
+In order to solve the increase in the scale of employees in enterprises and institutions, this system uses OpenCV to recognize faces and realize sign-in operations. Use MySQL database to store user information and sign-in records. The system can perform statistical analysis on employees' attendance. While improving management efficiency, it provides a basis for enterprises and institutions to reward and punish employees. After comprehensive testing, the system has a good performance in practicability and stability. It can effectively improve the efficiency of corporate attendance and solve many traditional sign-in Disadvantages, has good practical application value.
